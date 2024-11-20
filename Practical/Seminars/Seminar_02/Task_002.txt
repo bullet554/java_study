@@ -1,0 +1,7 @@
+.idea
+log.0.0.txt
+log.config
+out
+Task1
+Task2
+Task_002.txt

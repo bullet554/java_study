@@ -1,0 +1,4 @@
+нояб. 05, 2024 7:04:28 PM Main writeFileNamesToFile
+INFO: Привет :)
+нояб. 05, 2024 7:05:50 PM Main writeFileNamesToFile
+INFO: Привет :)
